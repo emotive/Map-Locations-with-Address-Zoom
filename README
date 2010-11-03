@@ -1,0 +1,28 @@
+Map Locations with Address Zoom
+__________________________________________________________
+
+(C) 2010 by emotive, llc
+Author: Matt Briney
+
+Licensed under the GPL
+
+
+__________________________________________________________
+
+
+This Javascript based code set displays a Google Map and 
+loads an referenced KML file with points of interest on the
+map.  Users can then zoom in on the map based on an address
+they provide.
+
+This code was used for early voting for the Bill Haslam for
+Governor campaign.
+
+
+INSTALL
+
+1) Edit the index.html code (see comments in file on where to update)
+2) Change the starting location's lat and long coordinates
+3) Enter the full URL to your external KML file with points of interest
+4) Place code anywhere on your website
+
